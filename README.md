@@ -58,7 +58,6 @@ This tool enables developers to encrypt and protect sensitive table data, genera
 
 - Windows 10/11
 - .NET 6.0+ or .NET Framework 4.8+
-- OpenSSL in your SylCore core for AES-CBC
 
 ---
 
