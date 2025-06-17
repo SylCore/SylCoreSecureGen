@@ -1,7 +1,7 @@
 # SylCoreSecureGen
 
 A secure encryption and obfuscation tool for [SylCore](https://github.com/SylCore/SylCore-WoTLK).  
-This tool enables developers to encrypt and protect sensitive table data, generate modular encryption keys, and output C++ header files for seamless integration into the SylCore engine.
+This tool enables developers to encrypt and protect sensitive table data, generate modular encryption keys, and output C++ header files for seamless integration into the SylCore.
 
 ---
 
