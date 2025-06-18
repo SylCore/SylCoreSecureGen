@@ -45,12 +45,13 @@ This tool enables developers to encrypt and protect sensitive table data, genera
 ## 🛠 Usage
 
 1. Run the tool
-2. Generate a new batch of encryption details.
-3. Restart the program (To load the new encryption details)
-4. Click "Encrypt All". This will take some time, but it encrypts all tables in the `plans.json` file.
-5. While it's encrypting, go into your folder, find the file `Encryption.generated.h`, open it, and copy everything.
-6. Open SylCore Visual Studio Solution, open the file called `EncryptionProtection.h`, and replace lines 17 - 32.
-7. After that, recompile your SylCore project, and you are all done!
+2. Make sure you changed your login details for the database inside `database-config` 
+3. Generate a new batch of encryption details.
+4. Restart the program (To load the new encryption details)
+5. Click "Encrypt All". This will take some time, but it encrypts all tables in the `plans.json` file.
+6. While it's encrypting, go into your folder, find the file `Encryption.generated.h`, open it, and copy everything.
+7. Open SylCore Visual Studio Solution, open the file called `EncryptionProtection.h`, and replace lines 17 - 32.
+8. After that, recompile your SylCore project, and you are all done!
 
 ---
 
